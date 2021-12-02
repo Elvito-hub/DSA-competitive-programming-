@@ -1,4 +1,4 @@
-//Euler’s Totient function F (n) for an input n is the count of numbers in {1, 2, 3, …, n}
+//Eulerâ€™s Totient function F (n) for an input n is the count of numbers in {1, 2, 3, â€¦, n}
 // that are relatively prime to n,
 // i.e., the numbers whose GCD (Greatest Common Divisor) with n is 1.
 
